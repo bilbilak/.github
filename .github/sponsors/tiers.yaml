@@ -1,0 +1,27 @@
+tiers:
+  monthly:
+    - name: 💖 Supporter
+      price: 5
+    - name: 🔥 Enthusiast
+      price: 10
+    - name: 🎖️ Patron
+      price: 25
+    - name: 🌟 Believer
+      price: 50
+    - name: 🎩 Connoisseur
+      price: 100
+    - name: 🧙‍♂️ Guru
+      price: 250
+  one-time:
+    - name: 🧭 Explorer
+      price: 100
+    - name: 🚀 Pioneer
+      price: 250
+    - name: 🌈 Visionary
+      price: 500
+    - name: 🪩 Luminary
+      price: 1000
+    - name: 👑 Legend
+      price: 2500
+    - name: 🦄 Unicorn
+      price: 5000
