@@ -1,11 +1,8 @@
-# IMPORTANT: Keep this file as `config.yml` (not `config.yaml`).
-# GitHub only detects issue template configuration when the file is named `config.yml`.
-
 blank_issues_enabled: false
 contact_links:
   - name: '❓ Discussion Board'
     url: https://repath.to/discussions/categories/q-a/?from=parent
     about: Ask your questions here
   - name: '📢 Support Policy'
-    url: https://repath.to/.github/blob/main/docs/SUPPORT.md?from=1
+    url: https://repath.to/blob/main/docs/SUPPORT.md?from=parent
     about: Learn how to get help here
