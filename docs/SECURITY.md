@@ -13,7 +13,7 @@ If you have discovered a security vulnerability in our project, we appreciate yo
 ### How to report
 
 1. **Do not disclose security-related issues publicly.** You can report them by using _GitHub_'s [private vulnerability reporting](https://refred.to/security/advisories). This allows us to manage the vulnerability as efficiently as possible and minimize the risk of malicious actors exploiting it. Please refrain from opening a _GitHub Issue_ for this purpose.
-    - Alternatively, you can send your reports via email to [security@bilbilak.dev](mailto:security@bilbilak.dev). Please encrypt your email messages using our public PGP key (shown below) to ensure the confidentiality of the information.
+    - Alternatively, you can send your reports via email to [security@bilbilak.org](mailto:security@bilbilak.org). Please encrypt your email messages using our public PGP key (shown below) to ensure the confidentiality of the information.
        ```
        -----BEGIN PGP PUBLIC KEY BLOCK-----
 
